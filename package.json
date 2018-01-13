@@ -1,0 +1,26 @@
+{
+  "name": "exp",
+  "version": "1.0.0",
+  "description": "canvas experiments",
+  "main": "final.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avorona/exp_beesandbombs.git"
+  },
+  "author": "avorona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avorona/exp_beesandbombs/issues"
+  },
+  "homepage": "https://github.com/avorona/exp_beesandbombs#readme",
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  },
+  "dependencies": {
+    "eslint": "^4.15.0"
+  }
+}
